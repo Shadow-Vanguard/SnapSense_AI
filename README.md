@@ -51,7 +51,7 @@ SCREENSHOT_DIR=Q:\images\Screenshots 1
 ## Run
 
 ```bash
-cd q:\AIGENESIS
+cd change to project directory
 python snapmind.py
 ```
 
